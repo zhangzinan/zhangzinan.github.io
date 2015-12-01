@@ -1,5 +1,5 @@
 <h2>ZZN Blog</h2>
-<p>zhangzinan.github.io</p>
+<blockquote>zhangzinan.github.io</blockquote>
 
 <p>3.0</p>
     sudo gem install jekyll
