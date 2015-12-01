@@ -8,4 +8,5 @@
 # sudo gem install jekyll-paginate
 # 启动服务
 # jekyll serve --watch
-ZZN Blog
+
+<h2>ZZN Blog</h2>
