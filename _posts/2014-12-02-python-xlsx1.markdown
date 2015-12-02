@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "python进阶：将table转化为excel"
-subtitle:   "去掉list中元素为字典的且字典key相同的list元素"
+subtitle:   "使用xlsxwriter库，将table转为excel"
 date:       2014-12-02 12:00:00
 author:     "张子楠"
 header-img: "img/14-09/post-bg1.jpg"
