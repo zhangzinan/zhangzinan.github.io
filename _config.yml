@@ -11,6 +11,7 @@ github_username:  zhangzinan
 
 # 搜索引擎优化
 baidu-site-verification: qdNAlCMk1U
+#msvalidate.01: 6821342DD876E3017C384B0D055C617F
 
 # Build settings
 markdown: kramdown
