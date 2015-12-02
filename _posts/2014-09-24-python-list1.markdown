@@ -31,7 +31,7 @@ header-img: "img/14-09/post-bg1.jpg"
 
 	set([1, 2, 3])
 
-python内置的et函数只能满足我们一些简单的需求，对于一维list来说
+python内置的set函数只能满足我们一些简单的需求，对于一维list来说
 但是对于多维list，或者list元素特殊的结构的去重，就需要我们去写函数来实现
 
 例如
