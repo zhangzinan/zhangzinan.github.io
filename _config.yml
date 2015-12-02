@@ -9,6 +9,9 @@ url: "http://zhangzinan.github.io"
 #facebook_username:  zhangzinan
 github_username:  zhangzinan
 
+# 搜索引擎优化
+baidu-site-verification: qdNAlCMk1U
+
 # Build settings
 markdown: kramdown
 highlighter: pygments
