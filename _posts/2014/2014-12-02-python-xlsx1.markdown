@@ -2,6 +2,7 @@
 layout:     post
 title:      "python进阶：将table转化为excel"
 subtitle:   "使用xlsxwriter库，将table转为excel"
+tags:		python table excel xlsx
 date:       2014-12-02 12:00:00
 author:     "张子楠"
 header-img: "img/14-09/post-bg1.jpg"

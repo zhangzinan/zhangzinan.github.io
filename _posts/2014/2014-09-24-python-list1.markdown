@@ -2,6 +2,7 @@
 layout:     post
 title:      "python进阶：list如何去重"
 subtitle:   "去掉list中元素为字典的且字典key相同的list元素"
+tags:		python list 去重
 date:       2014-09-24 12:00:00
 author:     "张子楠"
 header-img: "img/14-09/post-bg1.jpg"
