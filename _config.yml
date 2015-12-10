@@ -1,6 +1,6 @@
 # Site settings
 title: NGForever BLOG
-header-img: img/home-bg.jpg
+header-img: img/home.jpg
 email: 798618048@qq.com
 description: "欢迎访问我的博客^-^"
 baseurl: "" # the subpath of your site, e.g. /blog/
