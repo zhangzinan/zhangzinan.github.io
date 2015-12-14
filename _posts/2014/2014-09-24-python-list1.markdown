@@ -4,7 +4,7 @@ title:      "python进阶：list如何去重"
 subtitle:   "去掉list中元素为字典的且字典key相同的list元素"
 tags:		python list 去重
 date:       2014-09-24 12:00:00
-author:     "张子楠"
+author:     "Nan"
 header-img: "img/14-09/post-bg1.jpg"
 ---
 
@@ -79,5 +79,3 @@ python内置的set函数只能满足我们一些简单的需求，对于一维li
 </a>
 <span class="caption text-muted">每一行代码的诞生，都是成就</span>
 </center>
-
-<p>原文来自 <a href="http://blog.csdn.net/ngforever/">张子楠</a> 的CSDN.</p>

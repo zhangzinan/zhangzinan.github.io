@@ -4,7 +4,7 @@ title:      "python进阶：将table转化为excel"
 subtitle:   "使用xlsxwriter库，将table转为excel"
 tags:		python table excel xlsx
 date:       2014-12-02 12:00:00
-author:     "张子楠"
+author:     "Nan"
 header-img: "img/14-09/post-bg1.jpg"
 ---
 
@@ -91,5 +91,3 @@ header-img: "img/14-09/post-bg1.jpg"
 函数返回值 `fp` 是文件流对象
 
 待拓展功能：可以将table中的部分样式应用到生成的excel中
-
-<p>原文来自 <a href="http://blog.csdn.net/ngforever/">张子楠</a> 的CSDN.</p>

@@ -4,7 +4,7 @@ title:      "Odoo：对many2many或one2many的操作"
 subtitle:   "oe中调用create函数或者write函数时，对many2many或one2many的操作"
 tags:		python odoo many2many one2many
 date:       2014-01-23 12:00:00
-author:     "张子楠"
+author:     "Nan"
 header-img: "img/14-09/post-bg1.jpg"
 ---
 
